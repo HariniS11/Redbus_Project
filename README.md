@@ -10,12 +10,14 @@ And once the necessary filters added to the application it fetch data from the m
 Finally, it shown as a dataframe structure for easy reading of data.
 
 # Modules Used
+'''
 1.Chromium webdriver installation depends on version.
 2.Selenium 
 3.Pandas
 4.mysql connector
 5.Pymysql
 6.Streamlit
+'''
  I used mysql data base for my data storage.The neccesary columns are added in the data sets.
 
 # How to install and use this project in local(POS):
